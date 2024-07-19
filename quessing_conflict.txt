@@ -1,3 +1,4 @@
+Solutions
 Question A 
 7,850,200
 Question B 
@@ -6,3 +7,13 @@ Question C
 29%
 Question D 
 41%
+
+Guesses
+Question A 
+200000
+Question B  
+317000
+Question C 
+45%
+Question D 
+30%
