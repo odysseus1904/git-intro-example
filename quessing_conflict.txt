@@ -1,0 +1,8 @@
+Question A 
+200000
+Question B  
+317000
+Question C 
+45%
+Question D 
+30%
